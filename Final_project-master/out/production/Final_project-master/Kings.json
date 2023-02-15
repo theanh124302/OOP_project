@@ -1,0 +1,712 @@
+[
+  {
+    "Name": "Lý Nam Đế",
+    "NienHieu": "Thiên Đức (Đại Đức)",
+    "Year": "544-548"
+  },
+  {
+    "Name": "Đinh Tiên Hoàng",
+    "NienHieu": "Thái Bình",
+    "Year": "970-980"
+  },
+  {
+    "Name": "Đinh Toàn (Đinh Phế Đế)",
+    "NienHieu": "Thiên Phúc",
+    "Year": "980"
+  },
+  {
+    "Name": "Lê Hoàn",
+    "NienHieu": "Thiên Phúc",
+    "Year": "980-988"
+  },
+  {
+    "Name": "Lê Hoàn",
+    "NienHieu": "Hưng Thống",
+    "Year": "989-993"
+  },
+  {
+    "Name": "Lê Hoàn",
+    "NienHieu": "Ứng Thiên",
+    "Year": "994-1005"
+  },
+  {
+    "Name": "Lê Ngọa Triều",
+    "NienHieu": "Ứng Thiên",
+    "Year": "1005-1007"
+  },
+  {
+    "Name": "Lê Ngọa Triều",
+    "NienHieu": "Cảnh Thụy",
+    "Year": "1008-1009"
+  },
+  {
+    "Name": "Lý Thái Tổ",
+    "NienHieu": "Thuận Thiên",
+    "Year": "1010-1028"
+  },
+  {
+    "Name": "Lý Thái Tông",
+    "NienHieu": "Thiên Thành",
+    "Year": "1028-1034"
+  },
+  {
+    "Name": "Lý Thái Tông",
+    "NienHieu": "Thông Thụy",
+    "Year": "1034-1039"
+  },
+  {
+    "Name": "Lý Thái Tông",
+    "NienHieu": "Càn Phù Hữu Đạo",
+    "Year": "1039-1042"
+  },
+  {
+    "Name": "Lý Thái Tông",
+    "NienHieu": "Minh Đạo",
+    "Year": "1042-1044"
+  },
+  {
+    "Name": "Lý Thái Tông",
+    "NienHieu": "Thiên Cảm Thánh Vũ",
+    "Year": "1044-1049"
+  },
+  {
+    "Name": "Lý Thái Tông",
+    "NienHieu": "Sùng Hưng Đại Bảo",
+    "Year": "1049-1054"
+  },
+  {
+    "Name": "Lý Thánh Tông",
+    "NienHieu": "Long Thụy Thái Bình",
+    "Year": "1054-1058"
+  },
+  {
+    "Name": "Lý Thánh Tông",
+    "NienHieu": "Chương Thánh Gia Khánh",
+    "Year": "1059-1065"
+  },
+  {
+    "Name": "Lý Thánh Tông",
+    "NienHieu": "Long Chương Thiên Tự",
+    "Year": "1066-1068"
+  },
+  {
+    "Name": "Lý Thánh Tông",
+    "NienHieu": "Thiên Huống Bảo Tượng",
+    "Year": "1068-1069"
+  },
+  {
+    "Name": "Lý Thánh Tông",
+    "NienHieu": "Thần Vũ",
+    "Year": "1069-1072"
+  },
+  {
+    "Name": "Lý Nhân Tông",
+    "NienHieu": "Thái Ninh",
+    "Year": "1072-1076"
+  },
+  {
+    "Name": "Lý Nhân Tông",
+    "NienHieu": "Anh Vũ Chiêu Thắng",
+    "Year": "1076-1084"
+  },
+  {
+    "Name": "Lý Nhân Tông",
+    "NienHieu": "Quảng Hựu",
+    "Year": "1085-1092"
+  },
+  {
+    "Name": "Lý Nhân Tông",
+    "NienHieu": "Hội Phong",
+    "Year": "1092-1100"
+  },
+  {
+    "Name": "Lý Nhân Tông",
+    "NienHieu": "Long Phù",
+    "Year": "1101-1109"
+  },
+  {
+    "Name": "Lý Nhân Tông",
+    "NienHieu": "Hội Tường Đại Khánh",
+    "Year": "1110-1119"
+  },
+  {
+    "Name": "Lý Nhân Tông",
+    "NienHieu": "Thiên Phù Duệ Vũ",
+    "Year": "1120-1126"
+  },
+  {
+    "Name": "Lý Nhân Tông",
+    "NienHieu": "Thiên Phù Khánh Thọ",
+    "Year": "1127"
+  },
+  {
+    "Name": "Lý Thần Tông",
+    "NienHieu": "Thiên Thuận",
+    "Year": "1128-1132"
+  },
+  {
+    "Name": "Lý Thần Tông",
+    "NienHieu": "Thiên Chương Bảo Tự",
+    "Year": "1133-1138"
+  },
+  {
+    "Name": "Lý Anh Tông",
+    "NienHieu": "Thiệu Minh",
+    "Year": "1138-1140"
+  },
+  {
+    "Name": "Lý Anh Tông",
+    "NienHieu": "Đại Định",
+    "Year": "1140-1162"
+  },
+  {
+    "Name": "Lý Anh Tông",
+    "NienHieu": "Chính Long Bảo Ứng",
+    "Year": "1163-1174"
+  },
+  {
+    "Name": "Lý Anh Tông",
+    "NienHieu": "Thiên Cảm Chí Bảo",
+    "Year": "1174-1175"
+  },
+  {
+    "Name": "Lý Cao Tông",
+    "NienHieu": "Trinh Phù",
+    "Year": "1176-1186"
+  },
+  {
+    "Name": "Lý Cao Tông",
+    "NienHieu": "Thiên Tư Gia Thụy",
+    "Year": "1186-1202"
+  },
+  {
+    "Name": "Lý Cao Tông",
+    "NienHieu": "Thiên Gia Bảo Hựu",
+    "Year": "1202-1205"
+  },
+  {
+    "Name": "Lý Cao Tông",
+    "NienHieu": "Trị Bình Long Ứng",
+    "Year": "1205-1210"
+  },
+  {
+    "Name": "Lý Huệ Tông",
+    "NienHieu": "Kiến Gia",
+    "Year": "1211-1224"
+  },
+  {
+    "Name": "Lý Chiêu Hoàng",
+    "NienHieu": "Thiên Chương Hữu Đạo",
+    "Year": "1224-1225"
+  },
+  {
+    "Name": "Trần Thái tông",
+    "NienHieu": "Kiến Trung",
+    "Year": "1225-1232"
+  },
+  {
+    "Name": "Trần Thái Tông",
+    "NienHieu": "Thiên Ứng Chính Bình",
+    "Year": "1232-1251"
+  },
+  {
+    "Name": "Trần Thái Tông",
+    "NienHieu": "Nguyên Phong",
+    "Year": "1251-1258"
+  },
+  {
+    "Name": "Trần Thánh Tông",
+    "NienHieu": "Thiệu Long",
+    "Year": "1258-1272"
+  },
+  {
+    "Name": "Trần Thánh Tông",
+    "NienHieu": "Bảo Phù",
+    "Year": "1273-1278"
+  },
+  {
+    "Name": "Trần Nhân Tông",
+    "NienHieu": "Thiệu Bảo",
+    "Year": "1279-1285"
+  },
+  {
+    "Name": "Trần Nhân Tông",
+    "NienHieu": "Trùng Hưng",
+    "Year": "1285-1293"
+  },
+  {
+    "Name": "Trần Anh Tông",
+    "NienHieu": "Hưng Long",
+    "Year": "1293-1314"
+  },
+  {
+    "Name": "Trần Minh Tông",
+    "NienHieu": "Đại Khánh",
+    "Year": "1314-1323"
+  },
+  {
+    "Name": "Trần Minh Tông",
+    "NienHieu": "Khai Thái",
+    "Year": "1324-1329"
+  },
+  {
+    "Name": "Trần Hiến Tông",
+    "NienHieu": "Khai Hựu",
+    "Year": "1329-1341"
+  },
+  {
+    "Name": "Trần Dụ Tông",
+    "NienHieu": "Thiệu Phong",
+    "Year": "1341-1357"
+  },
+  {
+    "Name": "Trần Dụ Tông",
+    "NienHieu": "Đại Trị",
+    "Year": "1358-1369"
+  },
+  {
+    "Name": "Dương Nhật Lễ",
+    "NienHieu": "Đại Định",
+    "Year": "1369-1370"
+  },
+  {
+    "Name": "Trần Nghệ Tông",
+    "NienHieu": "Thiệu Khánh",
+    "Year": "1370-1372"
+  },
+  {
+    "Name": "Trần Duệ Tông",
+    "NienHieu": "Long Khánh",
+    "Year": "1372-1377"
+  },
+  {
+    "Name": "Trần Phế Đế",
+    "NienHieu": "Xương Phù",
+    "Year": "1377-1388"
+  },
+  {
+    "Name": "Trần Thuận Tông",
+    "NienHieu": "Quang Thái",
+    "Year": "1388-1398"
+  },
+  {
+    "Name": "Trần Thiếu Đế",
+    "NienHieu": "Kiến Tân",
+    "Year": "1398-1400"
+  },
+  {
+    "Name": "Hồ Quý Ly",
+    "NienHieu": "Thánh Nguyên",
+    "Year": "1400"
+  },
+  {
+    "Name": "Hồ Hán Thương",
+    "NienHieu": "Thiệu Thành",
+    "Year": "1401-1402"
+  },
+  {
+    "Name": "Hồ Hán Thương",
+    "NienHieu": "Khai Đại",
+    "Year": "1403-1407"
+  },
+  {
+    "Name": "Giản Định Đế (Trần Ngỗi)",
+    "NienHieu": "Hưng Khánh",
+    "Year": "1407-1409"
+  },
+  {
+    "Name": "Trần Quý Khoáng",
+    "NienHieu": "Trùng Quang",
+    "Year": "1409-1413"
+  },
+  {
+    "Name": "Lê Thái Tổ",
+    "NienHieu": "Thuận Thiên",
+    "Year": "1428-1433"
+  },
+  {
+    "Name": "Lê Thái Tông",
+    "NienHieu": "Thiệu Bình",
+    "Year": "1434-1439"
+  },
+  {
+    "Name": "Lê Thái Tông",
+    "NienHieu": "Đại Bảo(Thái Bảo)",
+    "Year": "1440-1442"
+  },
+  {
+    "Name": "Lê Nhân Tông",
+    "NienHieu": "Thái Hòa (Đại Hòa)",
+    "Year": "1443-1453"
+  },
+  {
+    "Name": "Lê Nhân Tông",
+    "NienHieu": "Diên Ninh",
+    "Year": "1454-1459"
+  },
+  {
+    "Name": "Lê Nghi Dân",
+    "NienHieu": "Thiên Hưng",
+    "Year": "1459-1460"
+  },
+  {
+    "Name": "Lê Thánh Tông",
+    "NienHieu": "Quang Thuận",
+    "Year": "1460-1469"
+  },
+  {
+    "Name": "Lê Thánh Tông",
+    "NienHieu": "Hồng Đức",
+    "Year": "1470-1497"
+  },
+  {
+    "Name": "Lê Hiến Tông",
+    "NienHieu": "Cảnh Thống",
+    "Year": "1498-1504"
+  },
+  {
+    "Name": "Lê Túc Tông",
+    "NienHieu": "Thái Trinh",
+    "Year": "1504"
+  },
+  {
+    "Name": "Lê Uy Mục",
+    "NienHieu": "Đoan Khánh",
+    "Year": "1505-1509"
+  },
+  {
+    "Name": "Lê Tương Dực",
+    "NienHieu": "Hồng Thuận",
+    "Year": "1509-1516"
+  },
+  {
+    "Name": "Lê Chiêu Tông",
+    "NienHieu": "Quang Thiệu",
+    "Year": "1516-1522"
+  },
+  {
+    "Name": "Lê Cung Hoàng",
+    "NienHieu": "Thống Nguyên",
+    "Year": "1522-1527"
+  },
+  {
+    "Name": "Mạc Thái Tổ",
+    "NienHieu": "Minh Đức",
+    "Year": "1527-1529"
+  },
+  {
+    "Name": "Mạc Thái tông",
+    "NienHieu": "Đại Chính",
+    "Year": "1530-1540"
+  },
+  {
+    "Name": "Lê Trang Tông",
+    "NienHieu": "Nguyên Hòa",
+    "Year": "1533-1548"
+  },
+  {
+    "Name": "Mạc Hiến Tông",
+    "NienHieu": "Quảng Hòa",
+    "Year": "1541-1546"
+  },
+  {
+    "Name": "Mạc Tuyên Tông",
+    "NienHieu": "Vĩnh Định",
+    "Year": "1547"
+  },
+  {
+    "Name": "Mạc Tuyên Tông",
+    "NienHieu": "Cảnh Lịch",
+    "Year": "1548-1553"
+  },
+  {
+    "Name": "Lê Trung Tông",
+    "NienHieu": "Thuận Bình",
+    "Year": "1548-1556"
+  },
+  {
+    "Name": "Mạc Tuyên Tông",
+    "NienHieu": "Quang Bảo",
+    "Year": "1554-1561"
+  },
+  {
+    "Name": "Lê Anh Tông",
+    "NienHieu": "Thiên Hựu",
+    "Year": "1556-1557"
+  },
+  {
+    "Name": "Lê Anh Tông",
+    "NienHieu": "Chính Trị",
+    "Year": "1558-1571"
+  },
+  {
+    "Name": "Mạc Mậu Hợp",
+    "NienHieu": "Thuần Phúc",
+    "Year": "1562-1565"
+  },
+  {
+    "Name": "Mạc Mậu Hợp",
+    "NienHieu": "Sùng Khang",
+    "Year": "1566-1577"
+  },
+  {
+    "Name": "Lê Anh Tông",
+    "NienHieu": "Hồng Phúc",
+    "Year": "1572-1573"
+  },
+  {
+    "Name": "Lê Thế Tông",
+    "NienHieu": "Gia Thái",
+    "Year": "1573-1577"
+  },
+  {
+    "Name": "Mạc Mậu Hợp",
+    "NienHieu": "Diên Thành",
+    "Year": "1578-1585"
+  },
+  {
+    "Name": "Lê Thế Tông",
+    "NienHieu": "Quang Hưng",
+    "Year": "1578-1599"
+  },
+  {
+    "Name": "Mạc Mậu Hợp",
+    "NienHieu": "Đoan Thái",
+    "Year": "1586-1587"
+  },
+  {
+    "Name": "Mạc Mậu Hợp",
+    "NienHieu": "Hưng Trị",
+    "Year": "1588-1590"
+  },
+  {
+    "Name": "Mạc Mậu Hợp",
+    "NienHieu": "Hồng Ninh",
+    "Year": "1591-1592"
+  },
+  {
+    "Name": "Mạc Kính Chỉ",
+    "NienHieu": "Bảo Định",
+    "Year": "1592"
+  },
+  {
+    "Name": "Mạc Kính Toàn",
+    "NienHieu": "Vũ An",
+    "Year": "1592-1593"
+  },
+  {
+    "Name": "Mạc Kính Chỉ",
+    "NienHieu": "Khang Hựu",
+    "Year": "1593"
+  },
+  {
+    "Name": "Mạc Kính Cung",
+    "NienHieu": "Càn Thống",
+    "Year": "1593-1625"
+  },
+  {
+    "Name": "Lê Kính Tông",
+    "NienHieu": "Thận Đức",
+    "Year": "1600-1600"
+  },
+  {
+    "Name": "Lê Kính Tông",
+    "NienHieu": "Hoằng Định",
+    "Year": "1600-1619"
+  },
+  {
+    "Name": "Lê Thần Tông",
+    "NienHieu": "Vĩnh Tộ",
+    "Year": "1619-1629"
+  },
+  {
+    "Name": "Lê Thần Tông",
+    "NienHieu": "Đức Long",
+    "Year": "1629-1635"
+  },
+  {
+    "Name": "Mạc Kính Khoan",
+    "NienHieu": "Long Thái",
+    "Year": "1618-1625"
+  },
+  {
+    "Name": "Lê Thần Tông",
+    "NienHieu": "Dương Hòa",
+    "Year": "1635-1643"
+  },
+  {
+    "Name": "Mạc Kính Vũ",
+    "NienHieu": "Thuận Đức",
+    "Year": "1638-1677"
+  },
+  {
+    "Name": "Lê Chân Tông",
+    "NienHieu": "Phúc Thái",
+    "Year": "1643-1649"
+  },
+  {
+    "Name": "Lê Thần Tông",
+    "NienHieu": "Khánh Đức",
+    "Year": "1649-1653"
+  },
+  {
+    "Name": "Lê Thần Tông",
+    "NienHieu": "Thịnh Đức",
+    "Year": "1653-1658"
+  },
+  {
+    "Name": "Lê Thần Tông",
+    "NienHieu": "Vĩnh Thọ",
+    "Year": "1658-1662"
+  },
+  {
+    "Name": "Lê Thần Tông",
+    "NienHieu": "Vạn Khánh",
+    "Year": "1662"
+  },
+  {
+    "Name": "Lê Huyền Tông",
+    "NienHieu": "Cảnh Trị",
+    "Year": "1663-1671"
+  },
+  {
+    "Name": "Lê Gia Tông",
+    "NienHieu": "Dương Đức",
+    "Year": "1672-1674"
+  },
+  {
+    "Name": "Lê Gia Tông",
+    "NienHieu": "Đức Nguyên",
+    "Year": "1674-1675"
+  },
+  {
+    "Name": "Lê Hy Tông",
+    "NienHieu": "Vĩnh Trị",
+    "Year": "1676-1680"
+  },
+  {
+    "Name": "Lê Hy Tông",
+    "NienHieu": "Chính Hòa",
+    "Year": "1680-1705"
+  },
+  {
+    "Name": "Lê Dụ Tông",
+    "NienHieu": "Vĩnh Thịnh",
+    "Year": "1705-1720"
+  },
+  {
+    "Name": "Lê Dụ Tông",
+    "NienHieu": "Bảo Thái",
+    "Year": "1720-1729"
+  },
+  {
+    "Name": "Lê Đế Duy Phường",
+    "NienHieu": "Vĩnh Khánh",
+    "Year": "1729-1732"
+  },
+  {
+    "Name": "Lê Thuần Tông",
+    "NienHieu": "Long Đức",
+    "Year": "1732-1735"
+  },
+  {
+    "Name": "Lê Ý Tông",
+    "NienHieu": "Vĩnh Hựu",
+    "Year": "1735-1740"
+  },
+  {
+    "Name": "Lê Hiển Tông",
+    "NienHieu": "Cảnh Hưng",
+    "Year": "1740-1786"
+  },
+  {
+    "Name": "Nguyễn Nhạc",
+    "NienHieu": "Thái Đức",
+    "Year": "1778-1793"
+  },
+  {
+    "Name": "Lê Chiêu Thống (Mẫn Đế)",
+    "NienHieu": "Chiêu Thống",
+    "Year": "1787-1789"
+  },
+  {
+    "Name": "Nguyễn Huệ",
+    "NienHieu": "Quang Trung",
+    "Year": "1788-1792"
+  },
+  {
+    "Name": "Nguyễn Quang Toản",
+    "NienHieu": "Cảnh Thịnh",
+    "Year": "1793-1801"
+  },
+  {
+    "Name": "Nguyễn Quang Toản",
+    "NienHieu": "Bảo Hưng",
+    "Year": "1801-1802"
+  },
+  {
+    "Name": "Nguyễn Thế Tổ",
+    "NienHieu": "Gia Long",
+    "Year": "1802-1819"
+  },
+  {
+    "Name": "Nguyễn Thánh Tổ",
+    "NienHieu": "Minh Mạng",
+    "Year": "1820-1840"
+  },
+  {
+    "Name": "Nguyễn Hiến Tổ (Miên Tông)",
+    "NienHieu": "Thiệu Trị",
+    "Year": "1841-1847"
+  },
+  {
+    "Name": "Nguyễn Dực Tông",
+    "NienHieu": "Tự Đức",
+    "Year": "1848-1883"
+  },
+  {
+    "Name": "Nguyễn Dục Đức",
+    "NienHieu": "Dục Đức",
+    "Year": "1883"
+  },
+  {
+    "Name": "Nguyễn Hiệp Hòa",
+    "NienHieu": "Hiệp Hòa",
+    "Year": "1883"
+  },
+  {
+    "Name": "Nguyễn Giản Tông",
+    "NienHieu": "Kiến Phúc",
+    "Year": "1883-1884"
+  },
+  {
+    "Name": "Nguyễn Hàm Nghi",
+    "NienHieu": "Hàm Nghi",
+    "Year": "1885-1888"
+  },
+  {
+    "Name": "Nguyễn Cảnh Tông",
+    "NienHieu": "Đồng Khánh",
+    "Year": "1886-1888"
+  },
+  {
+    "Name": "Nguyễn Thành Thái",
+    "NienHieu": "Thành Thái",
+    "Year": "1889-1907"
+  },
+  {
+    "Name": "Nguyễn Duy Tân (Vĩnh San)",
+    "NienHieu": "Duy Tân",
+    "Year": "1907-1916"
+  },
+  {
+    "Name": "Nguyễn Hoằng Tông (Bửu Đảo)",
+    "NienHieu": "Khải Định",
+    "Year": "1916-1925"
+  },
+  {
+    "Name": "Nguyễn Bảo Đại (Vĩnh Thụy)",
+    "NienHieu": "Bảo Đại",
+    "Year": "1926-1945"
+  }
+]
